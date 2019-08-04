@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fire
+  - Ground
+  - Enemy
+  - Dinosaur
   layers:
   - Default
   - TransparentFX
@@ -16,8 +20,8 @@ TagManager:
   - Ship
   - Gun
   - Avatar
-  - 
-  - 
+  - Enemy
+  - Player
   - 
   - 
   - 
@@ -46,4 +50,10 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 2407033801
+    locked: 0
+  - name: RedDino
+    uniqueID: 2950202107
+    locked: 0
+  - name: BlueDino
+    uniqueID: 1970441159
     locked: 0

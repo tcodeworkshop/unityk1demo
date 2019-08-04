@@ -1,2 +1,7 @@
 *.csproj
 *.sln
+*.suo
+.vs
+Library
+Temp
+obj
